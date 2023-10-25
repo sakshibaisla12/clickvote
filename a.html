@@ -1,0 +1,2 @@
+let x = Math.PI;
+let y = Math.sqrt(16);
